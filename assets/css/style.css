@@ -1,0 +1,36 @@
+body {
+	background-image: url(../images/background.png);
+	text-align: center;
+	width: auto;
+	padding: 25px;
+	}
+
+#header {
+	border: 20px;
+	font-weight: bold;
+	font-size: 72px;
+	background: pink;
+	padding: 20px;
+
+	}
+
+#main {
+	border: 40px;
+	font-size: 26px;
+	background: #62EE9F;
+	padding: 20px;
+	}
+
+#GOagain {
+	background: yellow;
+	font-size: 64px;
+	position: relative;
+}
+
+#answerA, #answerB, #answerC, #answerD {
+	background: white;
+	opacity: .7;
+	padding: 30px;
+	border: 20px;
+
+}
