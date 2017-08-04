@@ -21,7 +21,7 @@ body {
 	padding: 20px;
 	}
 
-#GOagain {
+#ready {
 	background: yellow;
 	font-size: 64px;
 	position: relative;
@@ -29,8 +29,9 @@ body {
 
 #answerA, #answerB, #answerC, #answerD {
 	background: white;
-	opacity: .7;
+	opacity: 0;
 	padding: 30px;
 	border: 20px;
+	font-size: 18px;
 
 }
